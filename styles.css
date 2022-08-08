@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background: darkgray;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}
+
+#canvas {
+  background: lightgray;
+}

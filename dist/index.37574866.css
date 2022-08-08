@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  background: #a9a9a9;
+  place-items: center;
+  margin: 0;
+  display: grid;
+  overflow: hidden;
+}
+
+#canvas {
+  background: #d3d3d3;
+}
+
+/*# sourceMappingURL=index.37574866.css.map */
