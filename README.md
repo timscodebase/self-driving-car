@@ -12,3 +12,5 @@ cd self-driving-car
 npm install
 parcel  index.html
 ```
+
+Here is the original [repo](https://github.com/gniziemazity/Self-driving-car)

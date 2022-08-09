@@ -2,22 +2,28 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Self Driving Car</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Driving Car</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-  <canvas id="canvas"></canvas>
-
-  <script src="js/sensor.js"></script>
-  <script src="js/utils.js"></script>
-  <script src="js/road.js"></script>
-  <script src="js/controls.js"></script>
-  <script src="js/car.js"></script>
-  <script src="js/main.js"></script>
+    <canvas id="carCanvas"></canvas>
+    <div id="verticalButtons">
+        <button onclick="save()">💾</button>
+        <button onclick="discard()">🗑️</button>
+    </div>
+    <canvas id="networkCanvas"></canvas>
+    <script src="js/visualizer.js"></script>
+    <script src="js/network.js"></script>
+    <script src="js/sensor.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/road.js"></script>
+    <script src="js/controls.js"></script>
+    <script src="js/car.js"></script>
+    <script src="js/main.js"></script>
 </body>
 
 </html>
