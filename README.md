@@ -1,6 +1,6 @@
 # Simulate Self Driving Car
 
-## [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+## [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs#rAxEsAvI)
 
 ### Thank You Dr. Radu Mariescu-Istodor
 

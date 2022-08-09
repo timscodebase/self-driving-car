@@ -7,6 +7,6 @@ body {
   place-items: center;
 }
 
-#canvas {
+_canvas {
   background: lightgray;
 }
